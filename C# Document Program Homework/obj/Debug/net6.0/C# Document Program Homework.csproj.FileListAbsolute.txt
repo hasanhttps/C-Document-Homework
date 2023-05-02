@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\bin\Debug\net6.0\C# Document Program Homework.exe
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\bin\Debug\net6.0\C# Document Program Homework.deps.json
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\bin\Debug\net6.0\C# Document Program Homework.runtimeconfig.json
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\bin\Debug\net6.0\C# Document Program Homework.dll
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\bin\Debug\net6.0\C# Document Program Homework.pdb
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\obj\Debug\net6.0\C# Document Program Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\obj\Debug\net6.0\C# Document Program Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\obj\Debug\net6.0\C# Document Program Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\obj\Debug\net6.0\C# Document Program Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\obj\Debug\net6.0\C# Document Program Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\obj\Debug\net6.0\C# Document Program Homework.dll
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\obj\Debug\net6.0\refint\C# Document Program Homework.dll
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\obj\Debug\net6.0\C# Document Program Homework.pdb
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\obj\Debug\net6.0\C# Document Program Homework.genruntimeconfig.cache
+C:\Users\hasan\source\repos\C# Document Program Homework\C# Document Program Homework\obj\Debug\net6.0\ref\C# Document Program Homework.dll
